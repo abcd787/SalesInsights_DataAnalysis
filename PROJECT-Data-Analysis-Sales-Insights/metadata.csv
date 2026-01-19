@@ -1,6 +1,6 @@
-file_name,
-customers.csv,
-date.csv,
-markets.csv,
-products.csv,
+file_name
+customers.csv
+date.csv
+markets.csv
+products.csv
 transactions.csv
